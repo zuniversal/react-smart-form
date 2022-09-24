@@ -1,0 +1,21 @@
+{  
+  "name": "react-z-smart-form",
+  "version": "0.0.1",
+  "author": "tvsqzyb",
+  "mains": "build/index.js",
+  "main": "components/smartForm.js",
+  "scripts": {
+    "build": "umi build"
+  },
+  "keywords": [
+    "react-smart-form",
+    "smart-form"
+  ],
+  "files": [
+    "components"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
